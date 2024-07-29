@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 - 🌱 I’m Shervin Fadaee
 - 🔭 I’m currently a back-end developer 
@@ -16,6 +17,3 @@
 
 ##
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shervin7900&show_icons=true&theme=radical)
-
-## Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
